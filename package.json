@@ -1,0 +1,11 @@
+{
+  "name": "@qball/execute-scripts",
+  "version": "1.0.0",
+  "description": "Used to more easily run command line scripts and read / parse output",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon Cate <brandoncate95@gmail.com>",
+  "license": "ISC"
+}
