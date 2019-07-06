@@ -7,5 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Brandon Cate <brandoncate95@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/BrandonCate95/qball-execute-scripts.git"
 }
