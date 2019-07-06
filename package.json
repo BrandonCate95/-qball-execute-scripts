@@ -1,6 +1,6 @@
 {
   "name": "@qball/execute-scripts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Used to more easily run command line scripts and read / parse output",
   "main": "lib/index.js",
   "scripts": {
