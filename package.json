@@ -4,9 +4,12 @@
   "description": "Used to more easily run command line scripts and read / parse output",
   "main": "lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "author": "Brandon Cate <brandoncate95@gmail.com>",
   "license": "ISC",
-  "homepage": "https://github.com/BrandonCate95/qball-execute-scripts.git"
+  "homepage": "https://github.com/BrandonCate95/qball-execute-scripts.git",
+  "dependencies": {
+    "mocha": "^6.1.4"
+  }
 }
